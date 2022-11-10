@@ -23,9 +23,11 @@
 
 ## 1.2 Описание основных бизнес-процессов предметной области
 ![BPMN](https://user-images.githubusercontent.com/105608765/198390455-82528494-97f5-4ec3-8fdd-66f882fc4575.png)
+![USE CASE](https://user-images.githubusercontent.com/105608765/198390642-297c6d3e-bcee-4c0f-929b-f721e43a1caf.png)
+
 
 ## 1.3 Описание основных действий при оформлении страховки
-![USE CASE](https://user-images.githubusercontent.com/105608765/198390642-297c6d3e-bcee-4c0f-929b-f721e43a1caf.png)
+
 
 
 1. https://fincult.info/article/osago/
