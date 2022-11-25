@@ -38,7 +38,7 @@
 
 
 
-# Список использованных материалов.
+# Список использованных источников
 1. https://fincult.info/article/osago/
 2. https://www.tinkoff.ru/insurance/osago/help/conditions/kbm/
 3. https://base.garant.ru/184404/
